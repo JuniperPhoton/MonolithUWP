@@ -1,0 +1,2 @@
+D:\Dev\apps\Monolith-UWP\MonolithLib\MonolithLib.csproj;x86
+D:\Dev\apps\Monolith-UWP\Monolith-UWP\Monolith-UWP.csproj;x86

@@ -1,0 +1,16 @@
+D:\Dev\apps\Monolith-UWP\MonolithLib\bin\x86\Debug\MonolithLib.dll
+D:\Dev\apps\Monolith-UWP\MonolithLib\bin\x86\Debug\MonolithLib.pdb
+D:\Dev\apps\Monolith-UWP\MonolithLib\bin\x86\Debug\MonolithLib.pri
+D:\Dev\apps\Monolith-UWP\MonolithLib\obj\x86\Debug\MonolithLib.dll
+D:\Dev\apps\Monolith-UWP\MonolithLib\obj\x86\Debug\MonolithLib.pdb
+D:\Dev\apps\Monolith-UWP\MonolithLib\obj\x86\Debug\priconfig.xml
+D:\Dev\apps\Monolith-UWP\MonolithLib\obj\x86\Debug\priconfig.xml.intermediate
+D:\Dev\apps\Monolith-UWP\MonolithLib\obj\x86\Debug\layout.resfiles
+D:\Dev\apps\Monolith-UWP\MonolithLib\obj\x86\Debug\layout.resfiles.intermediate
+D:\Dev\apps\Monolith-UWP\MonolithLib\obj\x86\Debug\resources.resfiles
+D:\Dev\apps\Monolith-UWP\MonolithLib\obj\x86\Debug\resources.resfiles.intermediate
+D:\Dev\apps\Monolith-UWP\MonolithLib\obj\x86\Debug\pri.resfiles
+D:\Dev\apps\Monolith-UWP\MonolithLib\obj\x86\Debug\pri.resfiles.intermediate
+D:\Dev\apps\Monolith-UWP\MonolithLib\obj\x86\Debug\qualifiers.txt
+D:\Dev\apps\Monolith-UWP\MonolithLib\obj\x86\Debug\qualifiers.txt.intermediate
+D:\Dev\apps\Monolith-UWP\MonolithLib\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
