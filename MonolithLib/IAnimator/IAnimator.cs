@@ -9,13 +9,7 @@ namespace Lousy.Mon
     public enum OrSo
     {
         Ticks,
-        Tick = Ticks,
-        Tic = Ticks,
-        Tics = Ticks,
         Seconds,
-        Second = Seconds,
-        Sec = Seconds,
-        Secs = Seconds,
     }
 
     public interface IAnimator

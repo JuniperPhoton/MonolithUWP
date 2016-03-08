@@ -16,6 +16,8 @@ namespace Lousy.Mon
                 _elem.RenderTransform = new CompositeTransform();
             }
             _transform = _elem.RenderTransform as CompositeTransform;
+            _transform.CenterX = 0.5;
+            _transform.CenterY = 0.5;
         }
 
         protected abstract override Timeline CreateAnimation();

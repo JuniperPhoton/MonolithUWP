@@ -89,7 +89,7 @@ namespace Lousy.Mon
                 }
                 else
                 {
-                    child.After(timespan.Value.Seconds, OrSo.Secs);
+                    child.After(timespan.Value.Seconds, OrSo.Seconds);
                 }
             }
         }

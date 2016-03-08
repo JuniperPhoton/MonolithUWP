@@ -26,7 +26,7 @@ namespace Lousy.Mon
             _delegate = del;
             _elem = new Rectangle();
             
-            _duration = new Duration(GetTimeSpan(1, OrSo.Tick));
+            _duration = new Duration(GetTimeSpan(1, OrSo.Ticks));
 
             _reverse = false;
 
